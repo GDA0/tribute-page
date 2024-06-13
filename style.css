@@ -1,6 +1,7 @@
-img {
-    display: block;
-    margin: auto;
-    max-width: 100%;
-    height: auto;
+main {
+    background-color: #eee;
+}
+
+a:hover {
+    text-decoration: none;
 }
